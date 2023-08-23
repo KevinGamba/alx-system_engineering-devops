@@ -1,2 +1,2 @@
 #!/bin/bash
-chown master: vincent staff
+chown staff: staff vincent
