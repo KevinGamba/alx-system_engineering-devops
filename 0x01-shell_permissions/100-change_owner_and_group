@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown master:vincent staff
+sudo chgrp vincent staff
