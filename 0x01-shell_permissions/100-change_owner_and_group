@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown master:staff vincent
+sudo chown master:vincent staff
